@@ -1,8 +1,6 @@
 import java.util.Base64;
 import java.util.Scanner;
 
-import java.util.Base64;
-import java.util.Scanner;
 public class Homework {
     // Зарегистрироваться на github.com
 // Установить git
